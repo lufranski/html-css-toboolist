@@ -60,3 +60,61 @@ header {
     padding-top: 20px;
     padding-left: 10px;
 }
+
+/* ToDo List Rules */
+
+.checkmark {
+    color: #1d7d33;
+    border: 1px solid #1d7d33;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.activity {
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.topic {
+    background-color: #219aeb;
+    color: white;
+    padding: 8px;
+    border: 1px solid #219aeb;
+    border-radius: 15px;
+}
+
+/* Today Rules */
+
+.xmark {
+    color: #e60707;
+    border: 1px solid #e60707;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.topic.q1-goals {
+    background-color: #6f07e6;
+    border-color: #6f07e6;
+}
+
+.topic.recruiting {
+    background-color: #65ad6e;
+    border-color: #65ad6e;
+}
+
+.topic.mobile{
+    background-color: #f07d02;
+    border-color: #f07d02;
+}
+
+/* Upcoming Rules */
+
+.topic.website {
+    background-color: #d61e99;
+    border-color: #d61e99;
+}
+
+.topic.sales{
+    background-color: #47a807;
+    border-color: #47a807;
+}
